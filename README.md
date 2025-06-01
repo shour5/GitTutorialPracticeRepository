@@ -1,1 +1,1 @@
-# GitTutorialPracticeReporsitory
+# Git Tutorial Practice Repository
